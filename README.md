@@ -1,5 +1,3 @@
 
-Device Tree for INFINIX zero 30 $G
-=======
-# Device-Tree-Zero-30
+Device Tree for INFINIX zero 30 4G
 
